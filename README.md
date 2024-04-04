@@ -1,6 +1,6 @@
 ### Hi there 👋,My name is Aminat Yisa,I'm a climate scientist and data scientist with interest in climate modelling and air quality assessment. 
 
-**Ami112-sketch/Ami112-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### 👩‍🚀About me
 🧠 I have a knack for transforming raw data into meaningful insights.
