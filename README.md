@@ -1,7 +1,4 @@
 ### Hi there 👋,My name is Aminat Yisa,I'm a climate scientist and data scientist with interest in climate modelling and air quality assessment. 
-
-
-
 ### 👩‍🚀About me
 🧠 I have a knack for transforming raw data into meaningful insights.
 
